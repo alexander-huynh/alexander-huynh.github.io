@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Projects
-subtitle: Subtitle.
+# subtitle: Subtitle.
 ---
-
-Here are my projects.
 
 ### My Projects:
 
