@@ -10,3 +10,5 @@ Here are my projects.
 
 INFO 201
 INFO 330
+
+![Image](assets\img\crepe.jpg)
