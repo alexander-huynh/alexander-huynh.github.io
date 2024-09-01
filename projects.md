@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-# subtitle: Subtitle.
+# subtitle: Subtitle
 ---
 
 ### My Projects:
@@ -25,4 +25,4 @@ title: Projects
   - Performed SQL functions on the data to reach findings.
 
 
-![Description of the image](../assets/img/crepe.jpg)
+![Description of the image](../assets/img/path.jpg)
