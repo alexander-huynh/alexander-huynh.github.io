@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Seattle PD Call Center Staffing Model"
+excerpt: "This project involved analyzing over 100,000 911 call records to optimize staffing schedules for the Seattle Police Department's call center. Using Python and pandas, I processed and cleaned the data, then created PivotTables in Excel and developed a Tableau dashboard to visualize call patterns and staffing needs. The resulting model helped improve resource allocation efficiency for the call center.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
