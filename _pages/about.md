@@ -9,8 +9,8 @@ redirect_from:
 
 Hello! Welcome to my web page.
 
-I'm Alexander, a third-year undergraduate student at the University of Washington, pursuing a Bachelor of Science in Informatics with a focus on Data Science and a minor in Statistics. My academic journey has fueled my passion for utilizing data-driven approaches to solve complex problems in fields such as urban planning, resource management, and predictive modeling. I have experience in machine learning, data visualization, and database design, complemented by technical proficiency in Python, R, SQL, and Tableau.
+I’m Alexander, a senior at the University of Washington pursuing a Bachelor of Science in Informatics with a focus on Data Science. My academic work centers on using data to understand real-world systems and make better decisions, especially in areas like public services, resource allocation, and predictive modeling. I’ve worked across machine learning, data visualization, and database design, and I’m most interested in building pipelines and tools that turn messy data into something interpretable and useful.
 
-Beyond academics, I enjoy mentoring aspiring tech enthusiasts, developing innovative solutions, and exploring the intersection of data and design. When I’m not coding, I love hiking around Washington, tinkering with new tools, and experimenting with UI/UX design concepts.
+Outside the classroom, I enjoy mentoring students, building exploratory projects, and thinking about how technical systems actually fit into human workflows. When I’m not coding, I like hiking around Washington, experimenting with new tools, and refining interfaces that make complex ideas feel intuitive.
 
 
