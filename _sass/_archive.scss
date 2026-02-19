@@ -112,6 +112,14 @@
    Grid view
    ========================================================================== */
 .grid__item {
+  .portfolio-grid {
+    @include clearfix();
+  }
+
+  .portfolio-grid .grid__item:nth-child(3n+1) {
+    clear: left;
+  }
+
 
   .archive__item-teaser {
     height: 140px;      /* base height */
