@@ -7,11 +7,6 @@ author_profile: true
 
 You can view or download my resume here:
 
-- [Download Resume](/files/paper1.pdf)
+- [Download Resume]({{ "/files/resume.pdf" | relative_url }})
 
-<iframe
-  src="/files/Alexander_Huynh_Resume.pdf"
-  width="100%"
-  height="900"
-  style="border: 1px solid #ddd; border-radius: 6px;"
-></iframe>
+<embed src="{{ '/files/resume.pdf' | relative_url }}" type="application/pdf" width="100%" height="900px" />
