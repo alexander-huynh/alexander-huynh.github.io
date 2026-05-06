@@ -1,7 +1,8 @@
 ---
 title: "Digital Asset Clustering & Prototype Pipeline"
-excerpt: "Clustered 300+ unlabeled 8×8 digital assets using PCA + KMeans over engineered visual features (color distribution, symmetry, edge structure) to organize content at scale. Automated near-duplicate detection and group synthesis to support scalable filtering, variant generation, and review workflows. Delivered Power BI dashboards and CSV summaries to enable batch evaluation, visual QA, and fast iteration cycles."
+excerpt: "Clustered 300+ unlabeled 8x8 sprites for a sprite library where manual sorting wasn't scalable. The interesting decision was the feature engineering: PCA over hand-built visual features (color distribution, symmetry, edge structure) rather than learned embeddings, because the assets are too small and stylized for pretrained vision models to be useful. KMeans on top for grouping, with Power BI dashboards for visual QA."
 collection: portfolio
+date_range: "Jun 2024 – Sep 2024"
 header:
   teaser: realmsprite-thumb.png
 
